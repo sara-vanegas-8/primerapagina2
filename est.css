@@ -1,0 +1,158 @@
+.tamab{
+	border-radius: 3px;
+    border: solid 5px purple;
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	width: 1200px;
+	height: 500px;
+}
+.tamab2{
+position: absolute;
+	top: 20px;
+	left: 200px;
+	width: 800px;
+	height: 110px;
+	background: url(tamaki.jpeg);
+	background-size: cover;
+border-radius: 3px;
+border: solid 5px #B71FA0;
+}
+.tam{
+position: absolute;
+	top: 3px;
+	left: 1px;
+	width: 805px;
+	height: 100px;
+background: rgba(250, 108, 221,0.3);
+border-radius: 1px;
+border: solid 0px#F1E5FB;
+}
+.tams{
+position: absolute;
+	top: 5px;
+	left: 270px;
+	width: 400x;
+	height: 90px;
+font-size:50px;
+
+
+}
+.tam2{
+position: absolute;
+	top: 60px;
+	left: 80px;
+	width: 800px;
+	height: 200px;
+	background-size: cover;
+
+}
+.tamo{
+position: absolute;
+	top: 130px;
+	left: 80px;
+	width: 450px;
+	height: 280px;
+font-size:30px;
+background:#76448A;
+}
+.tami{
+position: absolute;
+	top: 30px;
+	left: 10px;
+	width: 430px;
+	height: 220px;
+background: rgba(250, 108, 221,0.3);
+border-radius: 1px;
+border: solid 0px#F1E5FB;
+}
+
+.textos{
+	position: absolute;
+	top: 150px;
+    left: 250px;
+    color: #43230B;
+    font-size: 30px;
+}
+.textos2{
+	position: absolute;
+	top: 20px;
+    left: 40px;
+    color: #F8DBDB ;
+    font-size: 20px;
+}
+
+
+
+.tam3{
+position: absolute;
+	top: 120px;
+	left: 90px;
+	width: 800px;
+	height: 200px;
+	background-size: cover;
+
+}
+.tamabs{
+position: absolute;
+	top: 70px;
+	left: 590px;
+	width: 450px;
+	height: 280px;
+font-size:30px;
+background:#76448A;
+}
+.suneater{
+	position: absolute;
+	top: 100px;
+    left: 190px;
+    width: 150px;
+    height: 170px;
+    color: #F7F1F1 ;
+    font-size: 15px;
+    font-family: letra; 
+}
+.foto1{
+position: absolute;
+top: 100px;
+left: 20px;
+right: 50px;
+width: 150px;
+height: 170px;
+background: url(tamaki1.jpeg);
+background-size: cover;
+}
+.foto2{
+position: absolute;
+top: 10px;
+left: 20px;
+right: 50px;
+width: 150px;
+height: 130px;
+background: url(tamaki2.jpeg);
+background-size: cover;
+}
+.foto3{
+position: absolute;
+top: 10px;
+left: 300px;
+right: 50px;
+width: 130px;
+height: 160px;
+background: url(tamaki3.jpeg);
+background-size: cover;
+}
+.foto4{
+position: absolute;
+top: 130px;
+left: 300px;
+right: 50px;
+width: 130px;
+height: 140px;
+background: url(tamaki4.jpeg);
+background-size: cover;
+}
+@font-face{
+	font-family: letra;
+	src:url(Retro.otf);
+}
