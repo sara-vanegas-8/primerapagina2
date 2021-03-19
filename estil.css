@@ -1,0 +1,146 @@
+.cua{
+    border-radius: 10px;
+    border: solid 5px #EE573F;
+	position: absolute;
+	top: 50px;
+	left: 490px;
+	width: 600px;
+	height: 1000px;
+	background: #EE573F;
+}
+.cuad1{
+	position: absolute;
+	top: 15px;
+	left: 800px;
+	width: 420px;
+	height: 70px;
+	background:  #D18042;
+
+}
+.titul{
+
+	position: absolute;
+top: 100px;
+left: 180px;
+color:#FFC300;
+font-size: 25px;
+}
+.titu{
+position: absolute;
+top: 150px;
+left: 170px;
+color:#FFFFFF;
+font-size: 35px;
+}
+.tituo{
+position: absolute;
+top: 200px;
+left: 220px;
+color:#FFC300;
+font-size: 20px;
+}
+.fot{
+position: absolute;
+top: 320px;
+left: 150px;
+right: 10px;
+width: 250px;
+height: 280px;
+background: url(tambor2.png);
+transform: rotate(15deg);
+z-index: 4;
+background-size: cover;
+}
+.fot1{
+position: absolute;
+top: 180px;
+right: 426px;
+width: 200px;
+height: 280px;
+background: url(plumasas.png);
+transform: rotate(80deg);
+z-index: 4;
+background-size: cover;
+}
+.fot2{
+position: absolute;
+top: 250px;
+left: 350px;
+right: 10px;
+width: 280px;
+height: 250px;
+background: url(plumasss.png);
+transform: rotate(-70deg);
+z-index: 4;
+background-size: cover;
+}
+.fot3{
+position: absolute;
+top: 320px;
+left: 130px;
+width: 290px;
+height: 290px;
+background: url(guitarras.png);
+transform: rotate(-30deg);
+z-index: 4;
+background-size: cover;
+}
+
+.bandera3{
+position: absolute;
+top: 860px;
+left:500px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(bandera3.jpeg);
+background-size: cover;
+border-radius: 400px;
+}
+.bandera4{
+position: absolute;
+top: 760px;
+left: 500px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(bandera4.jpeg);
+background-size: cover;
+border-radius: 400px;
+}
+.bandera5{
+position: absolute;
+top: 650px;
+left: 500px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(bandera5.jpeg);
+background-size: cover;
+border-radius: 400px;
+}
+.bandera6{
+position: absolute;
+top: 550px;
+left: 500px;
+right: 50px;
+width: 100px;
+height: 100px;
+background: url(bandera6.jpeg);
+background-size: cover;
+border-radius: 400px;
+}
+.tituos{
+position: absolute;
+top: 720px;
+left: 50px;
+color:#FFC300;
+font-size: 80px;
+}
+.tituol{
+position: absolute;
+top: 850px;
+left: 100px;
+color:#FFC300;
+font-size: 40px;
+}
